@@ -1,0 +1,27 @@
+#head{
+    text-align: center;
+}
+#panel{
+    text-align: right;
+  width: 450px;
+  padding: 20px 0px 20px 0px;
+  font-size: 45px;
+  font-family: 'digital-7';
+}
+table{
+    margin:10% 0% 0% 35%;
+    
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 2);
+}
+button{
+    padding: 20px 50px 20px 50px;
+    background-color: transparent;
+}
+.number:hover{
+    background-color: greenyellow;
+    color: white;
+}
+.number:focus{
+    background-color:red;
+    color: black;
+}
